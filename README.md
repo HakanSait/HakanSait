@@ -37,6 +37,9 @@
 
 **Contact Me: b.hakan@palladium.gen.tr**
 
+<br/>
+
 <div align = "center">
-    <img height = "30" src = "imgs/instagram.png" />
+    <a href = "https://www.instagram.com/_that1coder_/"><img height = "35" src = "imgs/instagram.png" /></a>
+    <a href = "https://www.facebook.com/profile.php?id=61554638456400"><img height = "35" src = "imgs/facebook.png" /></a>
 </div>
