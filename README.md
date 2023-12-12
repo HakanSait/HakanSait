@@ -35,4 +35,8 @@
 
 <br/><br/>
 
-**E-mail: b.hakan@palladium.gen.tr**
+**Contact Me:**
+
+<div align = "center">
+    <img
+</div>
