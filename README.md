@@ -35,8 +35,8 @@
 
 <br/><br/>
 
-**Contact Me:**
+**Contact Me: b.hakan@palladium.gen.tr**
 
 <div align = "center">
-    <img
+    <img height = "30" src = "imgs/instagram.png" />
 </div>
