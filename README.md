@@ -7,14 +7,13 @@
 <div>
     Hi there👋! 
     My name is Hakan Sait Bozkurt. 
-    My hobbies are speedcubing, playing on guitar and programming. 
+    I am learning computer science. 
     <br/><br/>
     I started programming in August 2022.
     I started with learning Python from YouTube videos and books, but I stopped learning Python and started learning C++.
-    After, I learned C++ I returned back to Python.
-    I also know languages like Java and JavaScript.
+    After, I learned C++ I started learning JavaScript and Python.
     <br/><br/>
-    Right now I'm learning Web and App Development with React for front-end and Python for back-end.
+    Right now i am mostly focused on App Development. I use React-Native for front-end and NestJS for back-end.
 </div>
 
 <br/><br/>
@@ -24,13 +23,12 @@
     <img height = "25" src = "https://img.shields.io/badge/JAVASCRIPT-%23FFEE00?style=flat-square&logo=JavaScript&logoColor=black" />
     <img height = "25" src = "https://img.shields.io/badge/TYPESCRIPT-%230d57bf?style=flat-square&logo=typescript&logoColor=white" />
     <img height = "25" src = "https://img.shields.io/badge/PYTHON-%234664AA?style=flat-square&logo=Python&logoColor=white" />
-    <img height = "25" src = "https://img.shields.io/badge/JAVA-%23dc3c3c?style=flat-square&logo=Java&logoColor=white" />
-    <img height = "25" src = "https://img.shields.io/badge/C%2B%2B-%23285A96?style=flat-square&logo=C%2B%2B&logoColor=white" />
     <img height = "25" src = "https://img.shields.io/badge/HTML-%23ff5b29?style=flat-square&logo=html5&logoColor=white"/>
     <img height = "25" src = "https://img.shields.io/badge/CSS-%233c64e6?style=flat-square&logo=CSS3&logoColor=white" />
     <img height = "25" src = "https://img.shields.io/badge/REACT-%2378C8F0?style=flat-square&logo=react&logoColor=black" />
     <img height = "25" src = "https://img.shields.io/badge/BOOTSTRAP-purple?style=flat-square&logo=bootstrap&logoColor=white" />
     <img height = "25" src = "https://img.shields.io/badge/MYSQL-%2332738c?style=flat-square&logo=MySQL&logoColor=white" />
+    <img height = "25" src = "https://img.shields.io/badge/NestJS-%23bd2843?style=flat-square&logo=nestjs" />
 </div>
 
 <br/><br/>
