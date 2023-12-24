@@ -13,7 +13,7 @@
     I started with learning Python from YouTube videos and books, but I stopped learning Python and started learning C++.
     After, I learned C++ I started learning JavaScript and Python.
     <br/><br/>
-    Right now i am mostly focused on App Development. I use React-Native for front-end and learning NestJS for back-end.
+    Right now i am mostly focused on Mobile Development. I am learning React-Native for front-end and NestJS for back-end.
 </div>
 
 <br/><br/>
@@ -28,14 +28,15 @@
     <img height = "25" src = "https://img.shields.io/badge/REACT-%2378C8F0?style=flat-square&logo=react&logoColor=black" />
     <img height = "25" src = "https://img.shields.io/badge/BOOTSTRAP-purple?style=flat-square&logo=bootstrap&logoColor=white" />
     <img height = "25" src = "https://img.shields.io/badge/MYSQL-%2332738c?style=flat-square&logo=MySQL&logoColor=white" />
+    <img height = "25" src = "https://img.shields.io/badge/NESTJS-%23c83c5a?style=flat-square&logo=nestjs" />
 </div>
 
 <br/><br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HakanSait&show_icons=true&locale=en&layout=compact&theme=dark" alt="qriyad" height=165 /> <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=HakanSait&show_icons=true&locale=en&theme=dark" alt="qriyad" height=165 /> <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HakanSait&theme=dark" alt="qriyad" height=165 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HakanSait&show_icons=true&locale=en&layout=compact&theme=dark" alt="" height=165 /> <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=HakanSait&show_icons=true&locale=en&theme=dark" alt="" height=165 /> <br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HakanSait&theme=dark" alt="" height=165 />
 </div>
 
 <br/><br/>
