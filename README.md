@@ -18,17 +18,18 @@
 
 <br/><br/>
 
-**Languages, frameworks and tools that I use:**
+**Languages and tools that I can use:**
 <div align = "center">
-    <img height = "25" src = "https://img.shields.io/badge/JAVASCRIPT-%23FFEE00?style=flat-square&logo=JavaScript&logoColor=black" />
-    <img height = "25" src = "https://img.shields.io/badge/TYPESCRIPT-%230d57bf?style=flat-square&logo=typescript&logoColor=white" />
-    <img height = "25" src = "https://img.shields.io/badge/PYTHON-%234664AA?style=flat-square&logo=Python&logoColor=white" />
     <img height = "25" src = "https://img.shields.io/badge/HTML-%23ff5b29?style=flat-square&logo=html5&logoColor=white"/>
     <img height = "25" src = "https://img.shields.io/badge/CSS-%233c64e6?style=flat-square&logo=CSS3&logoColor=white" />
-    <img height = "25" src = "https://img.shields.io/badge/REACT-%2378C8F0?style=flat-square&logo=react&logoColor=black" />
+    <img height = "25" src = "https://img.shields.io/badge/JAVASCRIPT-%23FFEE00?style=flat-square&logo=JavaScript&logoColor=black" />
+    <img height = "25" src = "https://img.shields.io/badge/TYPESCRIPT-%230d57bf?style=flat-square&logo=typescript&logoColor=white" />
     <img height = "25" src = "https://img.shields.io/badge/BOOTSTRAP-purple?style=flat-square&logo=bootstrap&logoColor=white" />
+    <img height = "25" src = "https://img.shields.io/badge/REACT-%2378C8F0?style=flat-square&logo=react&logoColor=black" />
     <img height = "25" src = "https://img.shields.io/badge/MYSQL-%2332738c?style=flat-square&logo=MySQL&logoColor=white" />
-    <img height = "25" src = "https://img.shields.io/badge/NESTJS-%23c83c5a?style=flat-square&logo=nestjs" />
+    <img height = "25" src = "https://img.shields.io/badge/PYTHON-%234664AA?style=flat-square&logo=Python&logoColor=white" />
+    <img height = "25" src = "https://img.shields.io/badge/C%2B%2B-%230779e3?style=flat-square&logo=C%2B%2B" />
+    <img height = "25" src = "https://img.shields.io/badge/Java-%23e30728?style=flat-square" />
 </div>
 
 <br/><br/>
