@@ -1,52 +1,52 @@
 <h1 align = "center">Hakan Sait Bozkurt 🐺</h1>
-<h3 align = "center">Software Engineer</h3>
 
-<br/>
 <br />
 
-<div>
-    Hi there👋! 
-    My name is Hakan Sait Bozkurt. 
-    I am learning computer science. 
-    <br/><br/>
-    I started programming in August 2022.
-    I started with learning Python from YouTube videos and books, but I stopped learning Python and started learning C++.
-    After, I learned C++ I started learning JavaScript and Python.
-    <br/><br/>
-    Right now i am mostly focused on Mobile Development. I am learning React-Native for front-end and NestJS for back-end.
-</div>
+## About Me💫:
 
-<br/><br/>
+<br />
 
-**Languages and tools that I can use:**
-<div align = "center">
-    <img height = "25" src = "https://img.shields.io/badge/HTML-%23ff5b29?style=flat-square&logo=html5&logoColor=white"/>
-    <img height = "25" src = "https://img.shields.io/badge/CSS-%233c64e6?style=flat-square&logo=CSS3&logoColor=white" />
-    <img height = "25" src = "https://img.shields.io/badge/JAVASCRIPT-%23FFEE00?style=flat-square&logo=JavaScript&logoColor=black" />
-    <img height = "25" src = "https://img.shields.io/badge/TYPESCRIPT-%230d57bf?style=flat-square&logo=typescript&logoColor=white" />
-    <img height = "25" src = "https://img.shields.io/badge/BOOTSTRAP-purple?style=flat-square&logo=bootstrap&logoColor=white" />
-    <img height = "25" src = "https://img.shields.io/badge/REACT-%2378C8F0?style=flat-square&logo=react&logoColor=black" />
-    <img height = "25" src = "https://img.shields.io/badge/MYSQL-%2332738c?style=flat-square&logo=MySQL&logoColor=white" />
-    <img height = "25" src = "https://img.shields.io/badge/PYTHON-%234664AA?style=flat-square&logo=Python&logoColor=white" />
-    <img height = "25" src = "https://img.shields.io/badge/C%2B%2B-%230779e3?style=flat-square&logo=C%2B%2B" />
-    <img height = "25" src = "https://img.shields.io/badge/Java-%23e30728?style=flat-square" />
-</div>
+**Hi there👋! My name is Hakan Sait Bozkurt. 
+I am 13 year old programmer (learner) from Azerbaijan 🇦🇿. 
+Right now I'm living in Türkiye 🇹🇷. 
+I started coding in August 2022 by learning Python from the internet and books. 
+Now I am learning Web | Mobile Development and machine learning.
+For front-end I am learning React and for back-end NestJS.
+Beside programming I like to play on guitar 🎸 and speedcube.**
 
-<br/><br/>
+<br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HakanSait&show_icons=true&locale=en&layout=compact&theme=dark" alt="" height=165 /> <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=HakanSait&show_icons=true&locale=en&theme=dark" alt="" height=165 /> <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HakanSait&theme=dark" alt="" height=165 />
-</div>
+## My skills✨:
 
-<br/><br/>
+<br />
 
-**Contact Me: b.hakan@palladium.gen.tr**
+### 👀 - Front-end
 
-<br/>
+![HTML](https://img.shields.io/badge/HTML-%23f75828?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%233764e1?style=for-the-badge&logo=css3&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-%23ebdc50?style=for-the-badge&logo=javascript&logoColor=black)
+![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-%23466ebe?style=for-the-badge&logo=TYPESCRIPT&logoColor=white)
+![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-%23771eeb?style=for-the-badge&logo=BOOTSTRAP&logoColor=white)
+![REACT](https://img.shields.io/badge/REACT-%2382d3f0?style=for-the-badge&logo=REACT&logoColor=black)
 
-<div align = "center">
-    <a href = "https://www.instagram.com/_that1coder_/"><img height = "35" src = "imgs/instagram.png" /></a>
-    <a href = "https://www.facebook.com/profile.php?id=61554638456400"><img height = "35" src = "imgs/facebook.png" /></a>
-</div>
+
+### 🫥 - Back-end
+
+![NESTJS](https://img.shields.io/badge/NEST.JS-%23e62740?style=for-the-badge&logo=NESTJS&logoColor=white)
+![EXPRESSJS](https://img.shields.io/badge/EXPRESS.JS-%2346505a?style=for-the-badge&logo=EXPRESS&logoColor=white)
+
+
+### 💿 - Database
+
+![MYSQL](https://img.shields.io/badge/MYSQL-%23326e8c?style=for-the-badge&logo=MYSQL&logoColor=white)
+
+
+### 😎 - Others
+
+![JAVA](https://img.shields.io/badge/JAVA-%23dc3c37?style=for-the-badge&logo=OPENJDK&logoColor=white)
+![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=for-the-badge&logo=cpp2&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+<br /><br /><br />
+
+**E-mail: b.hakan@palladium.gen.tr**
