@@ -2,8 +2,8 @@
 
 <br />
 
-<div align="center"><img src="https://readmestats.999857.xyz/api?username=HakanSait&show_icons=true&locale=en&theme=dracula" alt="HakanSait" /></div> <br />
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=HakanSait&show_icons=true&locale=en&layout=compact&theme=dracula" alt="HakanSait" height=165 /></div>
+<div align="center"><img src="https://readmestats.999857.xyz/api?username=HakanSait&show_icons=true&locale=en&theme=dracula" alt="HakanSait" width=500 /></div> <br />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=HakanSait&show_icons=true&locale=en&layout=compact&theme=dracula" alt="HakanSait" width=450 /></div>
 
 <br />
 
