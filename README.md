@@ -15,7 +15,7 @@
 I am 13 year old programmer (learner) from Azerbaijan 🇦🇿. 
 Right now I'm living in Türkiye 🇹🇷. 
 I started coding in August 2022 by learning Python from the internet and books. 
-Now I am learning Web | Mobile Development and neural networks.
+Now I am learning Web | Mobile Development and IOS development.
 For front-end I am learning React and for back-end NestJS.
 Beside programming I like to play on guitar 🎸 and speedcube.**
 
