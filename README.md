@@ -21,7 +21,7 @@ Beside programming I like to play on guitar 🎸 and speedcube.**
 
 <br />
 
-## My skills✨:
+## Tools I use (and will use)✨:
 
 <br />
 
