@@ -33,6 +33,7 @@ Beside programming I like to play on guitar 🎸 and speedcube.**
 ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-%23466ebe?style=for-the-badge&logo=TYPESCRIPT&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-%23771eeb?style=for-the-badge&logo=BOOTSTRAP&logoColor=white)
 ![REACT](https://img.shields.io/badge/REACT-%2382d3f0?style=for-the-badge&logo=REACT&logoColor=black)
+![SWIFTUI](https://img.shields.io/badge/SWIFTUI-%23eb442a?style=for-the-badge&logo=SWIFT&logoColor=%23fff)
 
 
 ### 🫥 - Back-end
