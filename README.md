@@ -39,7 +39,8 @@ Beside programming I like to play on guitar 🎸 and speedcube.**
 ### 🫥 - Back-end
 
 ![NESTJS](https://img.shields.io/badge/NEST.JS-%23e62740?style=for-the-badge&logo=NESTJS&logoColor=white)
-![EXPRESSJS](https://img.shields.io/badge/EXPRESS.JS-%2346505a?style=for-the-badge&logo=EXPRESS&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-%23ebdc50?style=for-the-badge&logo=javascript&logoColor=black)
+![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-%23466ebe?style=for-the-badge&logo=TYPESCRIPT&logoColor=white)
 
 
 ### 💿 - Database
@@ -52,6 +53,7 @@ Beside programming I like to play on guitar 🎸 and speedcube.**
 ![JAVA](https://img.shields.io/badge/JAVA-%23dc3c37?style=for-the-badge&logo=OPENJDK&logoColor=white)
 ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=for-the-badge&logo=cpp2&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%231060cf?style=for-the-badge&logo=c%23&logoColor=white)
 
 <br /><br /><br />
 
