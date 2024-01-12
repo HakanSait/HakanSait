@@ -15,7 +15,7 @@
 I am 13 year old programmer (learner) from Azerbaijan 🇦🇿. 
 Right now I'm living in Türkiye 🇹🇷. 
 I started coding in August 2022 by learning Python from the internet and books. 
-Beside programming I like to play on guitar 🎸 and speedcube.**
+Beside programming I like to play on guitar 🎸.**
 
 <br />
 
