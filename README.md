@@ -12,7 +12,7 @@
 <br />
 
 **Hi there👋! My name is Hakan Sait Bozkurt. 
-I am 13 year old Turk 🐺 programmer (learner) from Azerbaijan 🇦🇿. 
+I am 14 year old Turk 🐺 programmer (learner) from Azerbaijan 🇦🇿. 
 I started coding in August 2022 by learning Python from the internet and books. 
 Currently I've been learning Nest.js and SwiftUI.
 Beside programming I like to play AirSoft 🔫.**
