@@ -42,6 +42,9 @@ Beside programming I like to play AirSoft 🔫.**
 ![NESTJS](https://img.shields.io/badge/NEST.JS-%23e62740?style=for-the-badge&logo=NESTJS&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-%23ebdc50?style=for-the-badge&logo=javascript&logoColor=black)
 ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-%23466ebe?style=for-the-badge&logo=TYPESCRIPT&logoColor=white)
+![ASPDOTNET](https://img.shields.io/badge/ASP.NET_CORE-%239110cc?style=for-the-badge&logo=DOTNET&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%231060cf?style=for-the-badge&logo=c%23&logoColor=white)
+
 
 
 ### 💿 - Database
