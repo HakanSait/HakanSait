@@ -11,15 +11,15 @@
 
 <br />
 
-**Hi there👋! My name is Hakan Sait Bozkurt. 
-I am 14 year old Turk 🐺 programmer (learner) from Azerbaijan 🇦🇿. 
-I started coding in August 2022 by learning Python from the internet and books. 
-Currently I've been learning Nest.js and SwiftUI.
-Beside programming I like to play AirSoft 🔫.**
+- 🔭 I'm currently working on **Private projects and Todoist app (React Native)**
+- 🌱 I'm currently learning **ASP.NET Core 8 IOS Development with Swift**
+- 💬 Ask me about **React, Nest.JS and ASP.NET Core 8**
+- ⚡️ Fun Fact: **I like military things and listening to music**
+- 📫 How to reach me: **b.hakan@palladium.gen.tr**
 
 <br />
 
-## Languages, Frameworks and Tools I use (and will use)✨:
+## Frameworks, Tools and Languages ✨:
 
 <br />
 
@@ -42,8 +42,9 @@ Beside programming I like to play AirSoft 🔫.**
 ![NESTJS](https://img.shields.io/badge/NEST.JS-%23e62740?style=for-the-badge&logo=NESTJS&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-%23ebdc50?style=for-the-badge&logo=javascript&logoColor=black)
 ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-%23466ebe?style=for-the-badge&logo=TYPESCRIPT&logoColor=white)
+![DOTNET](https://img.shields.io/badge/.NET-%23466eff?style=for-the-badge&logo=DOTNET&logoColor=white)
 ![ASPDOTNET](https://img.shields.io/badge/ASP.NET_CORE-%239110cc?style=for-the-badge&logo=DOTNET&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%231060cf?style=for-the-badge&logo=c%23&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%2300cc55?style=for-the-badge&logo=c%23&logoColor=white)
 
 
 
@@ -72,8 +73,3 @@ Beside programming I like to play AirSoft 🔫.**
 ![FIGMA](https://img.shields.io/badge/FIGMA-%23000?style=for-the-badge&logo=FIGMA&logoColor=white)
 ![POSTMAN](https://img.shields.io/badge/POSTMAN-%23000?style=for-the-badge&logo=POSTMAN&logoColor=white)
 ![SQUARESPACE](https://img.shields.io/badge/SQUARESPACE-%23000?style=for-the-badge&logo=SQUARESPACE&logoColor=white)
-
-
-<br /><br /><br />
-
-**E-mail: b.hakan@palladium.gen.tr**
