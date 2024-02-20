@@ -66,7 +66,7 @@
 ### 🛠 - Tools
 
 ![INTELLIJ](https://img.shields.io/badge/IDEA-%23000?style=for-the-badge&logo=INTELLIJ%20IDEA&logoColor=white)
-![PYCHARM](https://img.shields.io/badge/PYCHARM-%23000?style=for-the-badge&logo=PYCHARM&logoColor=white)
+![RIDER](https://img.shields.io/badge/RIDER-%23000?style=for-the-badge&logo=rider)
 ![VSCODE](https://img.shields.io/badge/VSCODE-%23000?style=for-the-badge&logo=VISUALSTUDIOCODE&logoColor=white)
 ![VISUALSTUDIO](https://img.shields.io/badge/VISUAL%20STUDIO-%23000?style=for-the-badge&logo=VISUALSTUDIO&logoColor=white)
 ![XCODE](https://img.shields.io/badge/XCODE-%23000?style=for-the-badge&logo=XCODE&logoColor=white)
