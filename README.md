@@ -11,9 +11,9 @@
 
 <br />
 
-- 🔭 I'm currently working on **Private projects and Todoist app (React Native)**
-- 🌱 I'm currently learning **ASP.NET Core 8 IOS Development with Swift**
-- 💬 Ask me about **React, Nest.JS and ASP.NET Core 8**
+- 🔭 I'm currently working on **Private projects and Data Storage App (NestJS and ReactJS)**
+- 🌱 I'm currently learning **Flutter and IOS Development with Swift**
+- 💬 Ask me about **React, Nest.JS, Swift and ASP.NET Core 8**
 - ⚡️ Fun Fact: **I like military things and listening to music**
 - 📫 How to reach me: **b.hakan@palladium.gen.tr**
 
@@ -68,8 +68,6 @@
 ![INTELLIJ](https://img.shields.io/badge/IDEA-%23000?style=for-the-badge&logo=INTELLIJ%20IDEA&logoColor=white)
 ![RIDER](https://img.shields.io/badge/RIDER-%23000?style=for-the-badge&logo=rider)
 ![VSCODE](https://img.shields.io/badge/VSCODE-%23000?style=for-the-badge&logo=VISUALSTUDIOCODE&logoColor=white)
-![VISUALSTUDIO](https://img.shields.io/badge/VISUAL%20STUDIO-%23000?style=for-the-badge&logo=VISUALSTUDIO&logoColor=white)
 ![XCODE](https://img.shields.io/badge/XCODE-%23000?style=for-the-badge&logo=XCODE&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/FIGMA-%23000?style=for-the-badge&logo=FIGMA&logoColor=white)
 ![POSTMAN](https://img.shields.io/badge/POSTMAN-%23000?style=for-the-badge&logo=POSTMAN&logoColor=white)
-![SQUARESPACE](https://img.shields.io/badge/SQUARESPACE-%23000?style=for-the-badge&logo=SQUARESPACE&logoColor=white)
